@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG5Gvoprk4/XHTWgH842yRY1_AlSU4sXg/edit?utm_content=DAG5Gvoprk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img src="https://www.canva.com/design/DAG5Gvoprk4/XHTWgH842yRY1_AlSU4sXg/edit?utm_content=DAG5Gvoprk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Raihan Ahmed Banner"/>
 </p>
 
 <h1 align="center">Hi, I'm Raihan Ahmed 👋</h1>

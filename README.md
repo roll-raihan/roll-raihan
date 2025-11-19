@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raihan Ahmed</h1>
 <h3 align="center">A passionate mern stack developer from Bangladesh</h3>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roll-raihan&label=Profile%20views&color=0e75b6&style=flat" alt="roll-raihan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -16,3 +18,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roll-raihan&show_icons=true&locale=en" alt="roll-raihan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roll-raihan&" alt="roll-raihan" /></p>
+
+----
+
+## 🏆 Achievements & Interests
+- ⭐ Interested in full-stack development  
+- 📦 Learning clean architecture & best practices  
+- 💡 Love solving problems & learning new tools  
+- 🌍 Open-source enthusiast  
+
+---

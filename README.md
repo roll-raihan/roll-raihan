@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG5Gvoprk4/XHTWgH842yRY1_AlSU4sXg/edit?utm_content=DAG5Gvoprk4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Raihan Ahmed Banner"/>
+  <img src="https://github.com/roll-raihan/roll-raihan/blob/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png?raw=true" alt="Raihan Ahmed Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi, I'm Raihan Ahmed 👋</h1>

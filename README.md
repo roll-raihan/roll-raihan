@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Raihan Ahmed</h1>
-<h3 align="center">A passionate mern stack developer from Bangladesh</h3>
+<p align="center">
+  <img src="[YOUR_BANNER_IMAGE_LINK](https://www.canva.com/design/DAG5Gvoprk4/XHTWgH842yRY1_AlSU4sXg/edit)" alt="Raihan Ahmed Banner" />
+</p>
+
+<h1 align="center">Hi, I'm Raihan Ahmed 👋</h1>
+<h3 align="center">CSE Student | MERN Stack Developer</h3>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roll-raihan&label=Profile%20views&color=0e75b6&style=flat" alt="roll-raihan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +31,5 @@
 - 🌍 Open-source enthusiast  
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roll-raihan&label=Profile%20views&color=0e75b6&style=flat" alt="roll-raihan" /> </p>

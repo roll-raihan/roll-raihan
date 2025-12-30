@@ -49,13 +49,11 @@ My goal is to grow as a full-stack developer and contribute to impactful project
 
 ### 🚀 My GitHub Stats
 
-![roll-raihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roll-raihan&show_icons=true&theme=radical&hide_border=true)
+<img alt="my-github-stats" src="https://github-readme-stats.vercel.app/api?username=roll-raihan&show_icons=true&theme=dark&hide_border=true" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roll-raihan&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=roll-raihan&theme=radical&hide_border=true)
-
-[![roll-raihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roll-raihan)](https://github.com/roll-raihan/github-readme-stats)
 
 ----
 

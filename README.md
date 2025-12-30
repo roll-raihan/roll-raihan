@@ -54,6 +54,13 @@ My goal is to grow as a full-stack developer and contribute to impactful project
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roll-raihan&theme=react" height="180"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roll-raihan&show_icons=true&locale=en&layout=compact" alt="roll-raihan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roll-raihan&show_icons=true&locale=en" alt="roll-raihan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roll-raihan&" alt="roll-raihan" /></p>
+
+
 ----
 
 ## 🏆 Achievements & Interests
